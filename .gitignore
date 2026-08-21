@@ -1,0 +1,11 @@
+# CLion & JetBrains files
+.idea/
+cmake-build-*/
+build/
+
+# Build artifacts & Executables
+*.exe
+*.o
+*.obj
+*.dll
+*.out

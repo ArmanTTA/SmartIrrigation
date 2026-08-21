@@ -1,0 +1,3 @@
+C:/Users/Arman/CLionProjects/SmartIrrigation/cmake-build-debug/CMakeFiles/SmartIrrigation.dir
+C:/Users/Arman/CLionProjects/SmartIrrigation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Arman/CLionProjects/SmartIrrigation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
